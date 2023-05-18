@@ -6,7 +6,7 @@
 
 // define the macros to be used
 #define BUFFER_SIZE 20
-#define NUM_ITEMS 100
+#define NUM_ITEMS 20
 
 // create the shared buffer for both threads
 int buffer[BUFFER_SIZE];
